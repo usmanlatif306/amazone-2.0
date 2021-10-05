@@ -3,7 +3,7 @@
 # dependencies
 node_modules
 /.pnp
-.pnp.jsgit branch -M main
+.pnp.js
 
 # testing
 /coverage
